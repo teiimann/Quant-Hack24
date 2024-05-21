@@ -1,0 +1,32 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+  
+.carousel {
+    margin-top: 50px;
+}
+
+.carousel-inner {
+    background: #080C14;
+}
+
+.item-img {
+    display: flex;
+    justify-content: center;
+}
+
+.accordion {
+    margin-top: 50px;
+    background-color: #080C14;
+}
+
+.about-us {
+    background-color: #080C14;
+    height: 150px;
+}
+
+.about-us h3 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
